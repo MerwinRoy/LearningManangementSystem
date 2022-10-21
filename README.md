@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+#Learning Management System (Web Development Project)
+
+![Webinar-amico](https://user-images.githubusercontent.com/46862684/197084850-93ce13b6-9aff-4e55-9247-ec64d9577d25.png)
+
+## Description
+Designed an online learning platform which accommodates multiple user roles for students, teachers and administrator. The system enables students to view and enroll to various course offerings as well as track academic progress, it also allows teachers to enroll to different courses for teaching roles and enables administrators to add/drop courses.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,13 +76,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Technologies Used
+# Technologies Used
 
-HTML
-JavaScript (ES6)
-Developed using ReactJS, react-bootstrap
-NodeJS , Express, CORS
-Mongoose  to interact with MongoDB Database
-Authentication using JWT
-Used HTTP REST API for CRUD operation
-Used Fetch API to fetch and update data on client side
+  *HTML
+  *JavaScript (ES6)
+  *Developed using ReactJS 
+  *react-bootstrap
+  *NodeJS
+  *Express
+  *CORS
+  *Mongoose (to interact with MongoDB Database)
+  *Authentication using JWT
+  *Used HTTP REST API for CRUD operation
+  *Used Fetch API to fetch and update data on client side
