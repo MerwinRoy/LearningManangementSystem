@@ -5,6 +5,25 @@
 ## Description
 Designed an online learning platform which accommodates multiple user roles for students, teachers and administrator. The system enables students to view and enroll to various course offerings as well as track academic progress, it also allows teachers to enroll to different courses for teaching roles and enables administrators to add/drop courses.
 
+## Project Screenshots (Learning Management System Website)
+
+<img width="1440" alt="Screen Shot 2022-10-20 at 8 48 59 PM" src="https://user-images.githubusercontent.com/46862684/197086020-d23249e2-c749-4ffa-a3ff-e2d8787abcdf.png">
+
+
+<img width="1440" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/46862684/197085465-b029c67c-cea8-4e16-8b21-0a1033afca59.png">
+
+<img width="1440" alt="MicrosoftTeams-image (2)" src="https://user-images.githubusercontent.com/46862684/197085543-9821b4f7-ef64-4941-ad7c-02c34c793699.png">
+
+
+<img width="1440" alt="MicrosoftTeams-image (3)" src="https://user-images.githubusercontent.com/46862684/197085480-a13c4199-db43-4d69-9a8e-0c871a1645b2.png">
+
+<img width="1440" alt="MicrosoftTeams-image (4)" src="https://user-images.githubusercontent.com/46862684/197085500-8d6f7484-a455-4935-9f60-519bdc40f7de.png">
+
+<img width="1440" alt="MicrosoftTeams-image (5)" src="https://user-images.githubusercontent.com/46862684/197085508-70d6d844-5e2a-4a36-a3aa-a72fc199c910.png">
+
+<img width="1440" alt="MicrosoftTeams-image (6)" src="https://user-images.githubusercontent.com/46862684/197085522-d18da968-2d0b-4385-9164-7de15fc81d2c.png">
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,15 +96,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # Technologies Used
-
-  *HTML
-  *JavaScript (ES6)
-  *Developed using ReactJS 
-  *react-bootstrap
-  *NodeJS
-  *Express
-  *CORS
-  *Mongoose (to interact with MongoDB Database)
-  *Authentication using JWT
-  *Used HTTP REST API for CRUD operation
-  *Used Fetch API to fetch and update data on client side
+  * HTML
+  * JavaScript (ES6)
+  * Developed using ReactJS 
+  * react-bootstrap
+  * NodeJS
+  * Express
+  * CORS Mongoose (to interact with MongoDB Database)
+  * Authentication using JWT
+  * Used HTTP REST API for CRUD operation
+  * Used Fetch API to fetch and update data on client side
